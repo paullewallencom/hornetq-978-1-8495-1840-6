@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-core.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-core-client.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-core-client-java5.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-jboss-as-integration.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-jms.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-jms-client.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-jms-client-java5.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-logging.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-spring-integration.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/hornetq-twitter-integration.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/jboss-jms-api.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/jboss-mc.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/jnp-client.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/jnpserver.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/mongo-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/netty.jar"/>
+	<classpathentry kind="lib" path="C:/hornetq-2.2.14.Final/lib/twitter4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piero.giacomelli/Downloads/javaee-api-6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

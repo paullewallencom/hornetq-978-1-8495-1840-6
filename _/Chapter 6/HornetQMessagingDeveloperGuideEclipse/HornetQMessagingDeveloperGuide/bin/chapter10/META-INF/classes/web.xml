@@ -1,0 +1,11 @@
+<web-app>
+<servlet>
+	<servlet-name>QueueSenderServlet</servlet-name>
+	<servlet-class>QueueSenderServlet</servlet-class>
+	<load-on-startup>1</load-on-startup>
+</servlet>
+<servlet-mapping>
+	<servlet-name>QueueSenderServlet</servlet-name>
+	<url-pattern>/QueueSenderServlet</url-pattern>
+</servlet-mapping>
+</web-app>
